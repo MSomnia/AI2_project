@@ -4,7 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OrdinalEncoder
 
 # Load CSV file
-file_path = "road_accident_dataset.csv"  # Change this to your actual file path
+file_path = "road_accident_dataset.csv"
 original_df = pd.read_csv(file_path)
 
 def data_preprocess(original_df, year="categorical"):
