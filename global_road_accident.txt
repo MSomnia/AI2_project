@@ -1,0 +1,20 @@
+Global Road Accidents
+https://www.kaggle.com/datasets/ankushpanday1/global-road-accidents-dataset
+
+Country, Year, Month, Day of Week, Time of Day, Urban/Rural, Road Type, Weather Conditions, Visibility Level, Number of Vehicles Involved, Speed Limit, Driver Age Group, Driver Gender, Driver Alcohol Level, Driver Fatigue, Vehicle Condition, Pedestrians Involved, Cyclists Involved, Accident Severity, Number of Injuries, Number of Fatalities, Emergency Response Time, Traffic Volume, Road Condition, Accident Cause, Insurance Claims, Medical Cost, Economic Loss, Region, Population Density
+
+1.
+Identify which factors contribute most to severe accidents, helping policymakers implement targeted safety measures.
+Develop a model that predicts the severity of an accident.
+
+2.
+Cluster accident data to identify high-risk regions and analyze temporal patterns.
+
+3.
+Build a predictive model to estimate the economic and medical costs of accidents based on severity, number of injuries, fatalities, insurance claims, and emergency response time.
+For insurance companies to plan resource and measures.
+
+['Country', 'Month', 'Day of Week', 'Time of Day', 'Urban/Rural',
+       'Road Type', 'Weather Conditions', 'Driver Age Group', 'Driver Gender',
+       'Vehicle Condition', 'Accident Severity', 'Road Condition',
+       'Accident Cause', 'Region'],
